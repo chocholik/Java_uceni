@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4077da9b-e738-45f1-8f98-c80c70793abd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Vypis/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vypis/src/main/java/cz/itnetwork/Vypis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cz/itnetwork/PrvniApplikace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/PrvniApplikace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/itnetwork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/Users/chochole/Library/CloudStorage/Dropbox/-=Programovani=-/Java/Moje_prvni_app_IT_Network/src/main/java/cz/itnetwork/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PrvniApplikace" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cz.itnetwork.PrvniApplikace" />
