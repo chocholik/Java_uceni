@@ -5,28 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4077da9b-e738-45f1-8f98-c80c70793abd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/Hello World.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hello World/bin/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Welcome/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Welcome/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Welcome/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/target/classes/prvniaplikace/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/target/test-classes/prvniaplikace/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/itnetwork/PrvniApplikace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/PrvniApplikace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2R3q5vz0UHZhgFPpVTZ9BZJQh2r" />
   <component name="ProjectViewState">
@@ -37,13 +39,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "onboarding.tips.debug.path": "/Users/chochole/Library/CloudStorage/Dropbox/-=Programovani=-/Java/Moje_prvni_app_IT_Network/src/main/java/cz/itnetwork/Main.java"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Welcome" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome" />
+    <configuration name="PrvniApplikace" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.itnetwork.PrvniApplikace" />
       <module name="Moje_prvni_app_IT_Network" />
       <method v="2">
         <option name="Make" enabled="true" />
