@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4077da9b-e738-45f1-8f98-c80c70793abd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/Hello World.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Welcome/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Welcome/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Welcome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/classes/prvniaplikace/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/test-classes/prvniaplikace/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2R3q5vz0UHZhgFPpVTZ9BZJQh2r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "onboarding.tips.debug.path": "/Users/chochole/Library/CloudStorage/Dropbox/-=Programovani=-/Java/Moje_prvni_app_IT_Network/src/main/java/cz/itnetwork/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Welcome" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Welcome" />
+      <module name="Moje_prvni_app_IT_Network" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4077da9b-e738-45f1-8f98-c80c70793abd" name="Changes" comment="" />
+      <created>1686488933968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686488933968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/itnetwork/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
